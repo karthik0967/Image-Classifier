@@ -1,5 +1,5 @@
 
-# 🚗✈️ Car vs Jet Fighter Image Classifier
+# Image Classifier
 
 This project implements image classification using **Support Vector Machines (SVM)** to classify images into two categories: **cars** 🚗 and **jet fighters** ✈️. The dataset is pre-organized into folders for each class, and images are resized, flattened, and fed into a machine learning model for training and testing.
 
